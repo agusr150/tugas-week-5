@@ -99,23 +99,4 @@ console.log(groupByGenus([
  *  Streptococcus: [ 'S. mutans' ]
  * }
  */
- console.log(groupByGenus([
-     'Vulpes chama',
-     'Felis chaus',
-     'Felis bieti',
-     'Vulpes velox',
-     'Canis lupus',
-     'Canis simenis',
-     'Vulpes zerda',
-     'Giraffe camelopardalis',
-     'Vulpes ferrilata'
- ]))
-/**
- * {
- * Vulpes: [ 'V. chama', 'V. velox', 'V. zerda', 'V. ferrilata' ],
- * Felis: [ 'F. chaus', 'F. bieti' ],
- * Canis: [ 'C. lupus', 'C. simenis' ],
- * Giraffe: [ 'G. camelopardalis' ]
- * }
- * 
  */
